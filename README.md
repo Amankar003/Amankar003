@@ -1,75 +1,18 @@
-<h1 align="center">Hey 👋 I'm Aman Kar</h1>
+# 💫 About Me:
+🔭 I’m currently working on Machine Learning & Data Science projects, focusing on real-world problem solving, end-to-end pipelines, and model deployment.<br>👯 I’m looking to collaborate on AI / ML / Data Science projects, open-source contributions, hackathons, and research-oriented implementations.<br>🤝 I’m looking for help with Advanced Machine Learning concepts, system design for ML, model optimization, and industry-level best practices.<br>🌱 I’m currently learning Deep Learning, Generative AI, Transformers, and scalable ML systems along with DSA for technical interviews.<br>💬 Ask me about Python, Machine Learning, Data Science, SQL, model building, data preprocessing, and ML project workflows.<br>⚡ Fun fact, I believe consistent learning + real projects can outperform talent — and I’m proving it daily 🚀
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amankar003&label=Profile%20Views&color=00FFFF&style=flat-square" />
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aman-kar-4b1804259) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amankar125@gmail.com) 
 
-## 💫 About Me
-🔭 Working on Machine Learning & Data Science projects with focus on real-world applications, end-to-end pipelines & deployment.  
-👯 Open to collaboration on AI/ML, open-source contributions, hackathons & research projects.  
-🌱 Currently learning Deep Learning, Generative AI, Transformers & scalable ML systems.  
-💬 Ask me about Python, Machine Learning, Data Science, SQL & ML project workflows.  
-⚡ Fun fact: Consistency + real projects > raw talent 🚀  
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Amankar003&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Amankar003&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amankar003&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amankar003&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/aman-kar-4b1804259)  
-[![Email](https://img.shields.io/badge/Email-red)](mailto:amankar125@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-**Languages:** Python, SQL, C++  
-
-**Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn  
-
-**Machine Learning / AI:** TensorFlow, Keras, MLflow  
-
-**Backend & APIs:** Flask, FastAPI, Django  
-
-**Databases:** MySQL, PostgreSQL, MongoDB, SQLite  
-
-**Tools:** Git, Docker, Power BI, Jupyter, VS Code  
-
----
-
-## ☁️ Cloud & Deployment (Exposure)
-AWS • Azure • Vercel • Render • Netlify • Kubernetes  
-
----
-
-## 🧠 3D Profile View
-<p align="center">
-  <img src="profile-3d-city.svg" alt="3D View" width="100%" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amankar003&theme=radical" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amankar003&layout=compact&theme=radical" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Amankar003&theme=radical" height="180em"/>
-</p>
-
----
-
-## ✍️ Dev Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
